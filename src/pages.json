@@ -1,0 +1,36 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "猫咪认领",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/cat-detail/index",
+			"style": {
+				"navigationBarTitleText": "猫咪详情"
+			}
+		},
+		{
+			"path": "pages/category/list",
+			"style": {
+				"navigationBarTitleText": "猫咪列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/adoption-apply/index",
+			"style": {
+				"navigationBarTitleText": "认领申请"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "猫咪认领",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#f5f5f5"
+	}
+}
